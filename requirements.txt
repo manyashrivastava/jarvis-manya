@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+pyautogui
+requests
+python-dotenv
+pyaudio
+customtkinter
